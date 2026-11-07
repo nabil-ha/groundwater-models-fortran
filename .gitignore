@@ -1,0 +1,17 @@
+# Only the cleaned-up program folders are published; the original files,
+# the book scan and Word documents stay local.
+/*
+!/.gitignore
+!/README.md
+!/grwater/
+!/odast/
+
+# Build output
+.DS_Store
+a.out
+*.o
+*.mod
+fort.*
+grwater/grwater
+odast/odast
+odast/OUTPUT.TXT
